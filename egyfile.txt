@@ -1,4 +1,4 @@
-valami legyen a fileban
-most módosítok rajta
-Most megint módosítok 
+Nem tudom miért híbázik a notepad.
+Minden esetre nem az kerül a fileba, mint amit írok
+
  
