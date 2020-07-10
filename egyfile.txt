@@ -1,4 +1,2 @@
-Nem tudom miért híbázik a notepad.
-Minden esetre nem az kerül a fileba, mint amit írok
-
- 
+Nem tudom miÃ©rt hÃ­bÃ¡zik a notepad.
+Minden esetre nem az kerÃ¼l a fileba, mint amit akartam.
