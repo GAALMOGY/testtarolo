@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<title>Függőleges igazítás példák</title>
+<meta charset="utf-8">
+<style type="text/css">
+  span.felsoindex {vertical-align: super;}
+  span.alsoindex {vertical-align: sub;}
+  td {height: 100px; background-color: lightgray;}
+  td.pelda1 {vertical-align: middle;}
+  td.pelda2 {vertical-align: bottom;}
+  td.pelda3 {vertical-align: top;}
+  .pelda4 {vertical-align: 10px;}  
+  .pelda5 {vertical-align: -10px;}
+</style>
+</head>
+<body>
+    <p>Kettő<span class="felsoindex">a négyzeten</span> az négy.</p>
+    <p>A vízmolekula képlete:  H<span class="alsoindex">2</span>O.</p>
+    <table>
+      <tr>
+        <td>Ez egy függőlegesen</td>
+        <td class="pelda1">középre</td>
+        <td class="pelda2"> le</td>
+        <td class="pelda3"> fel igazított szöveg.</td>
+        <td> Ez  <span class="pelda4">+10 képponttal</span> van eltolva. Ez pedig <span class="pelda5">-10 képponttal</span>.</td>
+    </tr>
+   </table>
+</body>
+</html>

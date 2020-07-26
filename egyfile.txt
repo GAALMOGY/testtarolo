@@ -1,2 +1,0 @@
-Nem tudom miért híbázik a notepad.
-Minden esetre nem az kerül a fileba, mint amit akartam.
