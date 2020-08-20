@@ -1,0 +1,5 @@
+function proba() {
+    let a = 1
+    let b = 1
+    let c = a + b
+}
